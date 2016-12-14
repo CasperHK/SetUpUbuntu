@@ -12,6 +12,8 @@ A script for quickly setting up Ubuntu.
    * MySQL Workbench
    * Octave
    * R Language
+   * Go Language
+   * Node & NPM
 1. **Graphic Tools**
    * Inkscape
    * GIMP
