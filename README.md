@@ -1,6 +1,8 @@
 # SetUpUbuntu
 A script for quickly setting up Ubuntu.
 
+<br/>
+
 ## Software List
 * Java JDK 1.8
 * Atom Editor
