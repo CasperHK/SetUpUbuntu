@@ -7,13 +7,13 @@ A script for quickly setting up Ubuntu.
 1. **Basic**
    * Java JDK 1.8
 1. **Software Development**
-   * Atom Editor
    * MySQL Server
    * MySQL Workbench
    * Octave
    * R Language
    * Go Language
    * Node & NPM
+   * Atom Editor
 1. **Graphic Tools**
    * Inkscape
    * GIMP
