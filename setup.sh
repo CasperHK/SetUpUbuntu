@@ -30,7 +30,8 @@ sudo apt-get install gnome-raw-thumbnailer ufraw-batch   # Raw File Preview
 sudo apt-get install language-pack-zh-hans language-pack-gnome-zh-hans language-pack-zh-hans-base language-pack-gnome-zh-hans-base \  
 sudo apt-get install language-pack-zh-hant language-pack-gnome-zh-hant language-pack-zh-hant-base language-pack-gnome-zh-hant-base \  
 sudo apt-get install fcitx fcitx-imlist fcitx-table-quick-classic   # Quicl Input Method  
-sudo apt-get install caddy apache2    # Server
+sudo apt-get install caddy apache2            # Server
+sudo apt-get install darktable rawtherapee    # Photo Editing
 
 
 
