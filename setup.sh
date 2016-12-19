@@ -71,3 +71,11 @@ fcitx-imlist -s us
 
 ## Disable Apache2 on boot
 sudo systemctl disable apache2
+
+## Downloading Go Package
+go get github.com/tealeg/xlsx
+go get github.com/gorilla/context
+go get github.com/gorilla/mux
+go get github.com/gorilla/securecookie
+go get github.com/gorilla/sessions
+go get github.com/gorilla/websocket
