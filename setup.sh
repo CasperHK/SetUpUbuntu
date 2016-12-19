@@ -11,6 +11,8 @@ sudo apt-add-repository ppa:paolorotolo/android-studio  # Android Studio
 sudo add-apt-repository ppa:olivier-berten/misc         # MySQL Workbench  
 sudo add-apt-repository ppa:vajdics/netbeans-installer  # Netbeans  
 sudo add-apt-repository ppa:hduran-8/caddy              # CADDY
+sudo add-apt-repository ppa:webupd8team/sublime-text-2  # Sublime Text 2
+sudo add-apt-repository ppa:webupd8team/sublime-text-3  # Sublime Text 3
 
 
 ## Update & Install ==================================================
@@ -32,6 +34,7 @@ sudo apt-get install language-pack-zh-hant language-pack-gnome-zh-hant language-
 sudo apt-get install fcitx fcitx-imlist fcitx-table-quick-classic   # Quicl Input Method  
 sudo apt-get install caddy apache2            # Server
 sudo apt-get install darktable rawtherapee    # Photo Editing
+sudo apt-get install sublime-text-installer   # Sublime Text 3
 
 
 
