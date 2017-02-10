@@ -25,7 +25,7 @@ sudo apt-get install google-chrome-stable               # Google Chrome
 sudo apt-get install android-studio  
 sudo apt-get install r-base octave                       # Big data & Math  
 sudo apt-get install blender gimp inkscape shutter       # Graphic Design Tools  
-sudo apt-get install monodevelop vlc golang netbeans-installer
+sudo apt-get install monodevelop vlc mpv golang netbeans-installer
 sudo apt-get install mysql-server mysql-workbench        # MySQL  
 sudo apt-get install gnome-raw-thumbnailer ufraw-batch   # Raw File Preview  
 # Chinese Language Packages
