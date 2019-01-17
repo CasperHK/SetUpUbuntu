@@ -1,11 +1,15 @@
 #!/bin/bash
 
+## Install Java 11 ===================================================
+sudo add-apt-repository ppa:linuxuprising/java
+sudo apt-get install oracle-java11-installer
+java -version # Check Java version
+
 ## Adding PPAs =======================================================
 # Google Chrome
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -  
 sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
 
-sudo add-apt-repository ppa:webupd8team/java            # Java  
 sudo add-apt-repository ppa:webupd8team/atom            # Atom  
 sudo apt-add-repository ppa:paolorotolo/android-studio  # Android Studio  
 sudo add-apt-repository ppa:olivier-berten/misc         # MySQL Workbench  
@@ -17,7 +21,6 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3  # Sublime Text 3
 
 ## Update & Install ==================================================
 sudo apt-get update  
-sudo apt-get install oracle-java8-installer             # Java 8  
 sudo apt-get install filezilla                          # FTP Access  
 sudo apt-get install p7zip-full p7zip-rar unzip         # Compress & Decompress  
 sudo apt-get install atom nodejs npm                    # Web development  
