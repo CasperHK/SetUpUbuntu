@@ -5,6 +5,9 @@ sudo add-apt-repository ppa:linuxuprising/java
 sudo apt-get install oracle-java11-installer
 java -version # Check Java version
 
+# micro Editor
+snap install micro --classic
+sudo apt-get install xclip
 
 ## Adding PPAs =======================================================
 # Google Chrome
