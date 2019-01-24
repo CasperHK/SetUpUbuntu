@@ -5,9 +5,11 @@ sudo add-apt-repository ppa:linuxuprising/java
 sudo apt-get install oracle-java11-installer
 java -version # Check Java version
 
-# micro Editor
+
+# Micro Editor =======================================================
 snap install micro --classic
 sudo apt-get install xclip
+
 
 ## Adding PPAs =======================================================
 # Google Chrome
@@ -20,6 +22,7 @@ sudo apt-get install xclip
 # Atom Editor ========================================================
 # sudo add-apt-repository ppa:webupd8team/atom            # Atom
 # It is better to install it's deb installer via it's official website: https://atom.io/
+
 
 ## Atom Plugin ----------------------------------------------
 sudo apm install remote-ftp  
