@@ -24,11 +24,11 @@ sudo apt-get install xclip
 # It is better to install it's deb installer via it's official website: https://atom.io/
 
 
-## Atom Plugin ----------------------------------------------
+## Atom Plugins ----------------------------------------------
 sudo apm install \
 remote-ftp color-picker autocomplete-modules autocomplete-webgl fold-functions \
-goto-definition highlight-selected markdown-preview-plus open-in-browsers package-list  
-# sudo apm install sync-settings
+goto-definition highlight-selected markdown-preview-plus open-in-browsers package-list \
+sync-settings
 
 
 # Android Studio ==========================================================
