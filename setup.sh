@@ -25,16 +25,9 @@ sudo apt-get install xclip
 
 
 ## Atom Plugin ----------------------------------------------
-sudo apm install remote-ftp  
-sudo apm install color-picker  
-sudo apm install autocomplete-modules  
-sudo apm install autocomplete-webgl  
-sudo apm install fold-functions  
-sudo apm install goto-definition  
-sudo apm install highlight-selected  
-sudo apm install markdown-preview-plus  
-sudo apm install open-in-browsers  
-sudo apm install package-list  
+sudo apm install \
+remote-ftp color-picker autocomplete-modules autocomplete-webgl fold-functions \
+goto-definition highlight-selected markdown-preview-plus open-in-browsers package-list  
 # sudo apm install sync-settings
 
 
